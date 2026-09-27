@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>H-1Bを出している会社ランキング(米国労働省LCAデータ)</title>
+  <meta name="description" content="米国労働省が公開するH-1B等の労働条件申請(LCA)データから、申請件数の多い会社と日系企業をランキングにしました。全米とニューヨーク市(NYC)勤務で切り替えられます。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&family=BIZ+UDPMincho:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗽</text></svg>">
+</head>
+<body>
+  <main class="page">
+    <header class="masthead">
+      <p class="source-line">米国労働省 OFLC 労働条件申請(LCA)開示データより</p>
+      <h1>H-1Bを出している会社ランキング</h1>
+      <p class="lede">米国で外国人を雇う会社が出す「労働条件申請」の件数と提示給与を、会社ごとに集計しました。全米とニューヨーク市勤務、全社と日系企業で切り替えて見られます。</p>
+    </header>
+
+    <form class="form-sheet" id="controls" aria-label="表示の切り替え">
+      <fieldset class="field field-year">
+        <legend>年度</legend>
+        <div class="choices" id="year-choices"></div>
+      </fieldset>
+      <fieldset class="field">
+        <legend>勤務地</legend>
+        <div class="choices">
+          <label class="choice"><input type="radio" name="scope" value="us" checked><span>全米</span></label>
+          <label class="choice"><input type="radio" name="scope" value="nyc"><span>NYC勤務のみ</span></label>
+        </div>
+      </fieldset>
+      <fieldset class="field">
+        <legend>対象</legend>
+        <div class="choices">
+          <label class="choice"><input type="radio" name="kind" value="top100" checked><span>全社TOP100</span></label>
+          <label class="choice"><input type="radio" name="kind" value="japanese"><span>日系企業</span></label>
+        </div>
+      </fieldset>
+      <div class="field field-search">
+        <label for="q" class="field-label">会社名で絞り込む</label>
+        <input id="q" type="search" placeholder="例:Nomura、みずほ、Google" autocomplete="off">
+      </div>
+    </form>
+
+    <section class="facts" aria-live="polite" id="facts"></section>
+
+    <div class="table-wrap" tabindex="0" aria-label="ランキング表(横にスクロールできます)">
+      <table id="ranking">
+        <thead id="thead"></thead>
+        <tbody id="tbody">
+          <tr><td class="empty">データを読み込んでいます。</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <section class="notes">
+      <h2>読み方と注意点</h2>
+      <dl>
+        <dt>件数</dt>
+        <dd>審査で認められた(Certified)申請の数です。更新や勤務地の変更でも申請されるため、採用人数とは一致しません。「新規雇用」は新しく雇う案件の数です。</dd>
+        <dt>基本給の中央値</dt>
+        <dd>申請書に書かれた提示賃金の下限を年額に直した値です。ボーナスや株式報酬は含まれないため、実際の総報酬より低く出ます。年額2万ドル未満と200万ドル超は入力ミスとみなして除いています。</dd>
+        <dt>NYC勤務</dt>
+        <dd>勤務州がニューヨーク州で、市名がマンハッタン、ブルックリン、ブロンクス、クイーンズ、スタテンアイランドなどの案件です。対岸のジャージーシティ(ニュージャージー州)は含みません。</dd>
+        <dt>全社TOP100</dt>
+        <dd>申請した法人ごとの順位です。同じ企業でも法人が分かれていれば別々に数えています(例:ゴールドマン・サックスの複数の法人)。同じ件数の会社は同じ順位です。</dd>
+        <dt>日系企業</dt>
+        <dd>親会社が日本企業の米国法人を社名から判定し、グループ単位で合算しています。GlobalLogic(日立)、Indeed(リクルート)、7-Eleven(セブン&アイ)などの買収先も含めていますが、漏れがあり得ます。</dd>
+        <dt>含まれないもの</dt>
+        <dd>日系企業が日本から社員を送るときに使うEビザやL-1ビザは、このデータに含まれません。日本からの異動の多さは、この件数からはわかりません。</dd>
+      </dl>
+      <p class="disclaimer">この集計は公開データをもとにした個人の分析で、移民・法律上の助言ではありません。ビザの取得や手続きについては専門家に確認してください。</p>
+    </section>
+
+    <footer class="colophon">
+      <p>出典:<a href="https://www.dol.gov/agencies/eta/foreign-labor/performance">U.S. Department of Labor, Office of Foreign Labor Certification, Performance Data</a>(LCA Disclosure Data)。集計スクリプトとCSVはこのリポジトリにあります。</p>
+      <p id="updated"></p>
+    </footer>
+  </main>
+  <script src="assets/app.js"></script>
+</body>
+</html>

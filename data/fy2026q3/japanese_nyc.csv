@@ -1,0 +1,22 @@
+rank,jp_group,jp_sector,cases,nyc_cases,new_hires,median_wage,it_share,top_state,main_entity
+1,野村,金融,104,104,55,160805.0,0.4615,NY,"Nomura Holding America, Inc."
+2,三井住友(SMBC),金融,71,71,37,142585.0,0.1408,NY,SUMITOMO MITSUI BANKING CORPORATION
+3,みずほ,金融,64,64,27,178500.0,0.25,NY,Mizuho Americas Services LLC
+4,三菱UFJ,金融,16,16,4,147500.0,0.25,NY,"MUFG Bank, Ltd."
+5,富士通,IT・電機,10,10,6,127118.0,0.7,NY,"Fujitsu North America, Inc."
+6,ソニー,IT・電機,9,9,2,152640.0,0.1111,NY,Sony Music Entertainment
+6,電通,消費財・小売・サービス,9,9,2,133000.0,0.2222,NY,"Dentsu International Americas, LLC"
+8,リクルート(Indeed等),IT・電機,7,7,3,176000.0,0.2857,NY,"Indeed, Inc."
+9,大和証券,金融,5,5,4,175000.0,0.0,NY,Daiwa Corporate Advisory LLC
+10,ファーストリテイリング,消費財・小売・サービス,4,4,1,126000.0,1.0,NY,"Fast Retailing USA, Inc."
+11,楽天,IT・電機,3,3,1,164815.0,0.6667,NY,Rakuten Marketing LLC
+12,SOMPO,保険,2,2,0,108212.0,0.0,NY,Endurance Services Limited DBA Sompo
+12,オリックス,金融,2,2,1,185000.0,0.0,NY,"ORIX USA, LP"
+12,日立(GlobalLogic含む),IT・電機,2,2,1,84864.0,0.5,NY,Hitachi Vantara LLC
+12,資生堂,消費財・小売・サービス,2,2,0,243765.0,0.5,NY,Shiseido Americas Corporation
+16,NTT(NTTデータ等),IT・電機,1,1,0,125008.0,1.0,NY,"NTT DATA Americas, Inc."
+16,MS&AD(三井住友海上等),保険,1,1,0,145000.0,0.0,NY,Mitsui Sumitomo Marine Management (USA)
+16,ダイキン,半導体・部品・機械,1,1,0,128190.0,0.0,NY,"Daikin Comfort Technologies Manufacturing, L.P."
+16,トヨタ,自動車,1,1,0,151707.0,1.0,NY,"Woven by Toyota, U.S., Inc."
+16,東京海上,保険,1,1,0,165000.0,0.0,NY,Tokio Marine Asset Management (USA) Ltd.
+16,日本生命,保険,1,1,0,275000.0,0.0,NY,Resolution Life Services (US) Inc.

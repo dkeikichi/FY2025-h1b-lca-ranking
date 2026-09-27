@@ -1,0 +1,5 @@
+# 米国労働省の元データ(100MB超のためGitHubに置かない)
+raw/
+*.pyc
+__pycache__/
+.DS_Store

@@ -1,0 +1,14 @@
+{
+  "label": "fy2025",
+  "files": [
+    "LCA_Disclosure_Data_FY2025_Q1.xlsx",
+    "LCA_Disclosure_Data_FY2025_Q2.xlsx",
+    "LCA_Disclosure_Data_FY2025_Q3.xlsx",
+    "LCA_Disclosure_Data_FY2025_Q4.xlsx"
+  ],
+  "decision_date_from": "2024-10-01",
+  "decision_date_to": "2025-09-30",
+  "cases_total": 594821,
+  "cases_certified": 550305,
+  "employers": 64733
+}

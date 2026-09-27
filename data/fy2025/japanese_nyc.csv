@@ -1,0 +1,23 @@
+rank,jp_group,jp_sector,cases,nyc_cases,new_hires,median_wage,it_share,top_state,main_entity
+1,野村,金融,137,137,72,128211.0,0.4015,NY,"Nomura Holding America, Inc."
+2,三井住友(SMBC),金融,120,120,63,118248.0,0.1417,NY,SUMITOMO MITSUI BANKING CORPORATION
+3,みずほ,金融,47,47,15,170000.0,0.2979,NY,Mizuho Americas Services LLC
+4,三菱UFJ,金融,21,21,7,146000.0,0.2381,NY,"MUFG Bank, Ltd."
+5,ソニー,IT・電機,12,12,3,144000.0,0.3333,NY,Sony Music Entertainment
+6,電通,消費財・小売・サービス,11,11,2,119038.0,0.0909,NY,"Dentsu International Americas, LLC"
+7,リクルート(Indeed等),IT・電機,9,9,1,134000.0,0.7778,NY,"Indeed, Inc."
+7,日立(GlobalLogic含む),IT・電機,9,9,3,81557.0,0.2222,NY,GlobalLogic Inc.
+9,富士通,IT・電機,6,6,5,116214.0,1.0,NY,"Fujitsu North America, Inc."
+9,NTT(NTTデータ等),IT・電機,6,6,1,103418.0,0.8333,NY,"NTT DATA Americas, Inc."
+11,楽天,IT・電機,2,2,1,190585.0,0.0,NY,Rakuten Marketing LLC
+11,大和証券,金融,2,2,1,177500.0,0.0,NY,Daiwa Corporate Advisory LLC
+13,MS&AD(三井住友海上等),保険,1,1,0,170000.0,0.0,NY,Mitsui Sumitomo Marine Management (USA)
+13,オリックス,金融,1,1,0,160000.0,0.0,NY,"ORIX USA, LP"
+13,トヨタ,自動車,1,1,0,285000.0,0.0,NY,"Toyota Research Institute, Inc. (TRI)"
+13,京セラ,IT・電機,1,1,1,120000.0,0.0,NY,"Kyocera Medical Technologies, Inc."
+13,三菱電機,IT・電機,1,1,0,125237.0,0.0,NY,"Mitsubishi Electric Power Products, Inc."
+13,ファーストリテイリング,消費財・小売・サービス,1,1,0,140000.0,1.0,NY,"Fast Retailing USA, Inc."
+13,伊藤忠,商社,1,1,0,238175.0,0.0,NY,ITOCHU International Inc.
+13,日本生命,保険,1,1,1,143170.0,0.0,NY,Resolution Life Services US Inc.
+13,第一三共,製薬・医療,1,1,0,192000.0,0.0,NY,"DAIICHI SANKYO, INC."
+13,野村総合研究所(NRI),IT・電機,1,1,0,101920.0,0.0,NY,NRI GEMS INC.

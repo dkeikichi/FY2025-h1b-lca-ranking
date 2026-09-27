@@ -1,0 +1,85 @@
+rank,jp_group,jp_sector,cases,nyc_cases,new_hires,median_wage,it_share,top_state,main_entity
+1,日立(GlobalLogic含む),IT・電機,600,9,133,114754.0,0.6817,TX,GlobalLogic Inc.
+2,NTT(NTTデータ等),IT・電機,519,6,43,122603.0,0.8844,TX,"NTT DATA Americas, Inc."
+3,トヨタ,自動車,310,1,57,153829.0,0.5613,TX,"Toyota  Motor Engineering & Manufacturing North America, Inc. (TEMA)"
+4,三井住友(SMBC),金融,260,120,113,125000.0,0.2885,NY,SUMITOMO MITSUI BANKING CORPORATION
+5,ソニー,IT・電機,233,12,57,158900.0,0.6567,CA,SONY INTERACTIVE ENTERTAINMENT LLC
+6,リクルート(Indeed等),IT・電機,210,9,29,137259.0,0.7333,WA,"Indeed, Inc."
+7,野村,金融,151,137,82,134992.0,0.3907,NY,"Nomura Holding America, Inc."
+8,武田薬品,製薬・医療,146,0,23,160060.0,0.1644,MA,"Takeda Development Center Americas, Inc."
+9,富士通,IT・電機,136,6,43,115336.0,0.9412,TX,"Fujitsu North America, Inc."
+10,パナソニック,IT・電機,135,0,34,141113.0,0.4889,CA,Panasonic Avionics Corporation
+11,セブン&アイ(7-Eleven),消費財・小売・サービス,116,0,16,128349.0,0.7845,TX,"7-Eleven, Inc."
+12,ホンダ,自動車,108,0,19,101152.0,0.2037,OH,"HONDA DEVELOPMENT & MANUFACTURING OF AMERICA, LLC"
+13,三菱UFJ,金融,101,21,11,146000.0,0.6832,NJ,"MUFG Bank, Ltd."
+14,ルネサス,半導体・部品・機械,94,0,39,144406.0,0.0213,CA,Renesas Electronics America Inc.
+15,みずほ,金融,71,47,19,160000.0,0.3944,NY,Mizuho Americas Services LLC
+16,電通,消費財・小売・サービス,54,11,13,118030.0,0.1852,GA,Merkle Inc.
+17,富士フイルム,IT・電機,47,0,9,106502.0,0.2979,TX,FUJIFILM Diosynth  Biotechnologies Texas LLC
+18,三菱電機,IT・電機,40,1,12,111166.0,0.15,TX,"Mitsubishi Electric Power Products, Inc."
+19,テルモ,製薬・医療,39,0,3,143666.0,0.5128,NJ,Terumo Medical Corporation
+20,第一三共,製薬・医療,33,1,11,163616.0,0.0303,NJ,"DAIICHI SANKYO, INC."
+21,ダイキン,半導体・部品・機械,31,0,10,122306.0,0.129,TX,"Daikin Comfort Technologies Manufacturing, L.P."
+22,建設(鹿島・大林・清水等),消費財・小売・サービス,29,0,13,98400.0,0.0345,GU,Obayashi Corporation
+22,東芝,IT・電機,29,0,3,127878.0,0.7586,NC,"Toshiba Global Commerce Solutions, Inc."
+24,アドバンテスト,半導体・部品・機械,26,0,14,124197.0,0.3846,CA,Advantest America Inc.
+25,アステラス,製薬・医療,25,0,13,169950.0,0.16,IL,"Astellas Pharma Global Development, Inc."
+26,ニデック,半導体・部品・機械,21,0,7,116955.0,0.2381,MO,Nidec Motor Corporation
+26,オムロン,半導体・部品・機械,21,0,4,134077.0,0.1429,CA,"Omron Robotics and Safety Technologies, Inc."
+28,ファナック,半導体・部品・機械,19,0,3,144900.0,0.5263,MI,FANUC America Corporation
+29,大塚,製薬・医療,17,0,2,175000.0,0.5294,NJ,"Otsuka Pharmaceutical Development & Commercialization, Inc."
+29,日産,自動車,17,0,9,114899.0,0.0,CA,"Nissan North America, Inc."
+29,エーザイ,製薬・医療,17,0,2,160000.0,0.1765,NJ,EISAI INC.
+29,村田製作所,半導体・部品・機械,17,0,5,130000.0,0.1765,CA,"Murata Electronics North America, Inc."
+33,ゲーム(スクエニ・バンナム・セガ等),IT・電機,16,0,8,117500.0,0.625,NV,"Konami Gaming, Inc."
+34,TDK,半導体・部品・機械,15,0,4,150000.0,0.3333,CA,TDK U.S.A. Corporation
+34,ヤマハ,自動車,15,0,3,104892.0,0.6,GA,"Yamaha Motor Corporation, USA"
+34,リコー,IT・電機,15,0,7,140725.0,0.9333,PA,"RICOH USA, INC."
+37,日本生命,保険,13,1,4,161705.0,0.5385,PA,Resolution Life Services US Inc.
+37,楽天,IT・電機,13,2,2,164800.0,0.4615,CA,"Rakuten USA, Inc."
+39,味の素,消費財・小売・サービス,12,0,3,107200.0,0.1667,CA,"Ajinomoto Foods North America, Inc."
+39,シスメックス,製薬・医療,12,0,2,133982.0,0.6667,IL,"Sysmex America, Inc."
+41,東京エレクトロン,半導体・部品・機械,11,0,7,135554.0,0.2727,OR,"Tokyo Electron America, Inc."
+42,SOMPO,保険,10,0,0,130102.0,0.7,NC,Endurance Services Limited
+42,安川電機,半導体・部品・機械,10,0,2,101244.0,0.4,IL,"Yaskawa America, Inc."
+42,セイコーエプソン,IT・電機,10,0,2,177132.0,0.4,CA,EPSON AMERICA INC.
+45,住友生命(Symetra),保険,9,0,2,110635.0,0.4444,WA,Symetra Life Insurance Company
+45,日本製鉄(USスチール含む),素材・化学,9,0,1,134326.0,0.5556,MI,United States Steel Corporation
+45,京セラ,IT・電機,9,1,1,180353.0,0.4444,CA,"Kyocera SLD Laser, Inc."
+48,キヤノン,IT・電機,8,0,0,129668.0,0.625,MN,"Canon Medical Informatics, Inc."
+48,三菱重工,半導体・部品・機械,8,0,1,138049.0,0.25,TX,"MITSUBISHI POWER AMERICAS, INC."
+48,NEC,IT・電機,8,0,2,131492.0,0.75,NJ,NEC CORPORATION OF AMERICA
+48,キオクシア,半導体・部品・機械,8,0,0,125728.0,0.5,CA,"KIOXIA America, Inc."
+48,住友電工,半導体・部品・機械,8,0,5,73102.0,0.0,MI,"Sumitomo Electric Wiring Systems, Inc."
+48,ブリヂストン,素材・化学,8,0,2,141221.0,0.5,TN,"Bridgestone Americas, Inc."
+48,任天堂,IT・電機,8,0,0,169000.0,0.625,WA,Nintendo of America Inc.
+48,野村総合研究所(NRI),IT・電機,8,1,1,118854.0,0.5,CA,"Core BTS, Inc."
+56,東京海上,保険,7,0,0,128639.0,0.5714,TX,"Tokio Marine Highland Insurance Services, Inc."
+56,ニコン,IT・電機,7,0,5,113966.0,0.1429,CA,NIKON METROLOGY INC
+58,明治安田(StanCorp),保険,6,0,0,162125.0,0.5,OR,Standard Insurance Company
+58,住友ファーマ,製薬・医療,6,0,0,172380.0,0.3333,CA,"Sumitomo Pharma America, Inc."
+58,オリンパス,IT・電機,6,0,3,117842.0,0.3333,PA,Olympus Corporation of the Americas
+58,SUBARU,自動車,6,0,5,90000.0,0.5,MI,"Subaru of America, Inc."
+58,小松製作所,半導体・部品・機械,6,0,1,120916.0,0.3333,IL,Komatsu America Corp.
+63,横河電機,半導体・部品・機械,5,0,4,107000.0,0.2,TX,Yokogawa Corporation of America
+63,ソフトバンク,IT・電機,5,0,2,152956.0,0.0,FL,"SB Energy DevCo (US), LLC"
+63,塩野義,製薬・医療,5,0,0,172000.0,0.2,NJ,"Shionogi, Inc."
+66,コニカミノルタ,IT・電機,4,0,2,119236.0,0.5,NJ,Konica Minolta Healthcare Americas Inc.
+66,MS&AD(三井住友海上等),保険,4,1,0,170000.0,0.25,NJ,Mitsui Sumitomo Marine Management (USA)
+66,HOYA,半導体・部品・機械,4,0,0,97468.0,0.0,CA,"Hoya Surgical Optics, Inc."
+66,豊田通商,商社,4,0,2,87287.0,0.75,TX,Toyota Tsusho Systems US Inc
+66,第一生命(Protective),保険,4,0,1,95559.0,0.75,AL,Protective Life Insurance Company
+66,大和証券,金融,4,2,2,200000.0,0.0,NY,Daiwa Corporate Advisory LLC
+72,アシックス,消費財・小売・サービス,3,0,1,131685.0,0.6667,MA,"ASICS Digital, Inc."
+73,旭化成,素材・化学,2,0,0,152404.0,0.0,IL,"Asahi Kasei Bioprocess America, Inc."
+73,三菱自動車,自動車,2,0,0,124092.0,1.0,TN,"Mitsubishi Motors North America, Inc."
+73,クボタ,半導体・部品・機械,2,0,0,130000.0,0.5,TX,Kubota North America Corporation
+73,オリックス,金融,2,1,0,170000.0,0.0,NJ,"ORIX USA, LP"
+77,キーエンス,半導体・部品・機械,1,0,0,1188600.0,0.0,IL,Keyence Corporation of America
+77,キリン,消費財・小売・サービス,1,0,1,66000.0,0.0,NY,Kirin Asset Management Inc
+77,ファーストリテイリング,消費財・小売・サービス,1,1,0,140000.0,1.0,NY,"Fast Retailing USA, Inc."
+77,ローム,半導体・部品・機械,1,0,1,148307.0,0.0,MI,"ROHM Semiconductor USA, LLC"
+77,伊藤忠,商社,1,1,0,238175.0,0.0,NY,ITOCHU International Inc.
+77,川崎重工,自動車,1,0,0,150078.0,0.0,NY,"Kawasaki Rail Car, Inc."
+77,協和キリン,製薬・医療,1,0,0,82000.0,0.0,CA,"Kyowa Kirin, Inc."
+77,信越化学(Shintech等),素材・化学,1,0,1,99504.0,0.0,WA,"Shin-Etsu Handotai America, Inc."

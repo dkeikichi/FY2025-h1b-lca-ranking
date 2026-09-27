@@ -1,0 +1,83 @@
+rank,jp_group,jp_sector,cases,nyc_cases,new_hires,median_wage,it_share,top_state,main_entity
+1,日立(GlobalLogic含む),IT・電機,479,2,181,115159.0,0.7704,TX,GlobalLogic Inc.
+2,NTT(NTTデータ等),IT・電機,345,1,26,129022.0,0.8986,TX,"NTT DATA Americas, Inc."
+3,トヨタ,自動車,195,1,64,147087.0,0.5846,MI,Toyota Material Handling Inc.
+4,三井住友(SMBC),金融,154,71,61,122304.0,0.2922,NY,SUMITOMO MITSUI BANKING CORPORATION
+5,ソニー,IT・電機,121,9,32,164798.0,0.686,CA,SONY INTERACTIVE ENTERTAINMENT LLC
+6,野村,金融,111,104,59,160805.0,0.4505,NY,"Nomura Holding America, Inc."
+7,パナソニック,IT・電機,109,0,44,130707.0,0.5229,CA,Panasonic Avionics Corporation
+8,武田薬品,製薬・医療,106,0,30,164174.0,0.1415,MA,"Takeda Development Center Americas, Inc."
+9,ホンダ,自動車,93,0,23,110000.0,0.2473,OH,"HONDA DEVELOPMENT & MANUFACTURING OF AMERICA, LLC"
+10,富士通,IT・電機,90,10,44,119122.0,0.8667,TX,"Fujitsu North America, Inc."
+11,リクルート(Indeed等),IT・電機,78,7,17,163550.0,0.6795,CA,"Indeed, Inc."
+12,みずほ,金融,71,64,29,175000.0,0.2958,NY,Mizuho Americas Services LLC
+13,三菱UFJ,金融,69,16,8,150015.0,0.6522,NY,"MUFG Bank, Ltd."
+14,ルネサス,半導体・部品・機械,66,0,19,153201.0,0.1212,CA,Renesas Electronics America Inc.
+15,セブン&アイ(7-Eleven),消費財・小売・サービス,58,0,12,121856.0,0.7069,TX,"7-Eleven, Inc."
+16,富士フイルム,IT・電機,47,0,13,93350.0,0.2553,TX,FUJIFILM Healthcare Americas Corporation
+17,建設(鹿島・大林・清水等),消費財・小売・サービス,26,0,9,110318.0,0.0769,CA,Obayashi Corporation
+18,電通,消費財・小売・サービス,24,9,9,125410.0,0.2917,NY,Merkle Inc.
+19,ダイキン,半導体・部品・機械,21,1,5,128190.0,0.0476,TX,Daikin Applied Americas Inc.
+20,第一三共,製薬・医療,20,0,7,160319.0,0.05,NJ,"DAIICHI SANKYO, INC."
+21,大塚,製薬・医療,19,0,2,175000.0,0.3158,NJ,"Otsuka Pharmaceutical Development & Commercialization, Inc."
+21,アドバンテスト,半導体・部品・機械,19,0,8,131019.0,0.2632,CA,Advantest America Inc.
+23,楽天,IT・電機,18,3,6,158499.0,0.6667,CA,"Rakuten USA, Inc."
+23,東芝,IT・電機,18,0,6,117201.0,0.7778,NC,"Toshiba Global Commerce Solutions, Inc."
+23,日産,自動車,18,0,9,153488.0,0.0,TN,"Nissan North America, Inc."
+26,ニデック,半導体・部品・機械,17,0,5,100000.0,0.1176,IL,Nidec Mobility America Corporation
+27,アステラス,製薬・医療,16,0,4,147290.0,0.25,IL,Astellas US LLC
+27,住友ファーマ,製薬・医療,16,0,2,163005.0,0.375,MA,"Sumitomo Pharma America, Inc."
+29,セイコーエプソン,IT・電機,15,0,6,172425.0,0.6667,CA,Epson America Inc
+29,味の素,消費財・小売・サービス,15,0,6,119309.0,0.1333,CA,"Ajinomoto Foods North America, Inc."
+31,三菱電機,IT・電機,13,0,4,142785.0,0.4615,MA,"Mitsubishi Electric Research Laboratories, Inc."
+32,NEC,IT・電機,12,0,7,152672.0,1.0,CA,"NEC Laboratories America, Inc."
+32,ヤマハ,自動車,12,0,2,122669.0,0.3333,GA,"Yamaha Motor Corporation, USA"
+32,安川電機,半導体・部品・機械,12,0,7,101514.0,0.3333,IL,"Yaskawa America, Inc."
+35,東京エレクトロン,半導体・部品・機械,11,0,3,150000.0,0.0,TX,"Tokyo Electron America, Inc."
+35,横河電機,半導体・部品・機械,11,0,6,122012.0,0.2727,TX,Yokogawa Corporation of America
+35,テルモ,製薬・医療,11,0,5,120337.0,0.5455,CO,"Terumo BCT, Inc."
+35,ファナック,半導体・部品・機械,11,0,4,120000.0,0.1818,MI,FANUC America Corporation
+35,エーザイ,製薬・医療,11,0,0,180000.0,0.1818,NJ,Eisai Inc
+40,豊田通商,商社,10,0,6,120141.0,0.8,TX,Toyota Tsusho Systems Us Inc
+40,ソフトバンク,IT・電機,10,0,3,135658.0,0.1,TX,"SB Energy DevCo (US), LLC"
+40,オムロン,半導体・部品・機械,10,0,4,137028.0,0.3,CA,"Omron Robotics and Safety Technologies, Inc."
+43,ゲーム(スクエニ・バンナム・セガ等),IT・電機,9,0,1,120000.0,0.6667,NV,"Konami Gaming, Inc."
+43,村田製作所,半導体・部品・機械,9,0,2,160000.0,0.1111,CA,"Murata Electronics North America, Inc."
+43,キオクシア,半導体・部品・機械,9,0,2,133069.0,0.4444,CA,"Kioxia America, Inc."
+46,リコー,IT・電機,8,0,3,101746.0,0.5,PA,"RICOH USA, INC."
+47,京セラ,IT・電機,7,0,3,152825.0,0.1429,CA,"Kyocera SLD Laser, Inc."
+47,任天堂,IT・電機,7,0,0,185000.0,1.0,WA,Nintendo of America Inc.
+47,塩野義,製薬・医療,7,0,1,135000.0,0.1429,NJ,"Shionogi, Inc."
+50,SOMPO,保険,6,2,0,147500.0,0.6667,NJ,Endurance Services Limited
+50,オリンパス,IT・電機,6,0,2,110708.0,0.3333,PA,Olympus Corporation of the Americas
+50,東京海上,保険,6,1,3,99167.0,0.3333,MO,"Tokio Marine Highland Insurance Services, Inc."
+50,キヤノン,IT・電機,6,0,3,137500.0,0.3333,TX,"Canon Nanotechnologies, Inc."
+54,日本生命,保険,5,1,1,159862.0,0.2,PA,Resolution Life Services (US) Inc.
+54,第一生命(Protective),保険,5,0,0,135000.0,0.6,AL,Protective Life Corporation
+54,大和証券,金融,5,5,4,175000.0,0.0,NY,Daiwa Corporate Advisory LLC
+57,HOYA,半導体・部品・機械,4,0,2,94276.0,0.0,CA,"Hoya Surgical Optics, Inc."
+57,オリックス,金融,4,2,1,185000.0,0.25,NY,"ORIX USA, LP"
+57,ファーストリテイリング,消費財・小売・サービス,4,4,1,126000.0,1.0,NY,"Fast Retailing USA, Inc."
+57,三菱重工,半導体・部品・機械,4,0,3,181175.0,0.25,TX,"MITSUBISHI POWER AMERICAS, INC."
+57,住友電工,半導体・部品・機械,4,0,1,77886.0,0.25,MI,"Sumitomo Electric U.S.A Holdings, Inc."
+62,信越化学(Shintech等),素材・化学,3,0,0,164168.0,0.0,LA,"Shintech Louisiana, LLC"
+62,ブリヂストン,素材・化学,3,0,1,139518.0,0.3333,NC,"Bridgestone Americas, Inc."
+62,シスメックス,製薬・医療,3,0,1,100547.0,0.3333,IL,"Sysmex America, Inc."
+62,コニカミノルタ,IT・電機,3,0,0,118105.0,0.3333,NC,Konica Minolta Healthcare Americas Inc.
+66,MS&AD(三井住友海上等),保険,2,1,1,164375.0,0.0,NY,Mitsui Sumitomo Marine Management (USA)
+66,野村総合研究所(NRI),IT・電機,2,0,1,101438.0,1.0,CA,NRI SecureTechnologies Ltd
+66,資生堂,消費財・小売・サービス,2,2,0,243765.0,0.5,NY,Shiseido Americas Corporation
+66,日本製鉄(USスチール含む),素材・化学,2,0,0,105115.0,0.5,MI,United States Steel Corporation
+66,SUBARU,自動車,2,0,1,129181.0,0.5,IN,Subaru of Indiana Automotive Inc.
+66,住友生命(Symetra),保険,2,0,0,99366.0,0.5,MI,Symetra Life Insurance Company
+66,明治安田(StanCorp),保険,2,0,0,165831.0,1.0,OR,Standard Insurance Company
+73,アシックス,消費財・小売・サービス,1,0,0,190799.0,0.0,GA,"ASICS Digital, Inc."
+73,SBI,金融,1,0,1,157500.0,0.0,CA,"SBI Holdings USA, Inc."
+73,TDK,半導体・部品・機械,1,0,0,151074.0,0.0,NJ,TDK-LAMBDA AMERICAS INC.
+73,キーエンス,半導体・部品・機械,1,0,0,109400.0,0.0,IL,Keyence Corporation of America
+73,クボタ,半導体・部品・機械,1,0,0,163083.0,0.0,IL,KUBOTA ENGINE AMERICA CORPORATION
+73,ニコン,IT・電機,1,0,1,192030.0,0.0,CA,Nikon Research Corporation of America
+73,丸紅,商社,1,0,1,142500.0,0.0,NC,"Marubeni Plant Contractor, Inc."
+73,川崎重工,自動車,1,0,0,102562.0,0.0,NY,"Kawasaki Rail Car, Inc."
+73,小松製作所,半導体・部品・機械,1,0,1,74000.0,0.0,TX,"KOMATSU/RANGEL, INC."
+73,旭化成,素材・化学,1,0,0,83450.0,0.0,IL,"Asahi Kasei Bioprocess America, Inc."
